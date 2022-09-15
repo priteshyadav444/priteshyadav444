@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pritesh Yadav</h1>
 
-<a href="https://priteshyadav.in/">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=priteshyadav444&count_private=true&show_icons=true&theme=dark&card_width=1" />
-</a>
+<div> <img align="left" src="https://github-readme-stats.vercel.app/api?username=priteshyadav444&count_private=true&show_icons=true&theme=dark&card_width=1" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=priteshyadav444&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=priteshyadav444&theme=dark)](https://git.io/streak-stats) </div>
+
 
 
 
