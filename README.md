@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pritesh Y</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priteshyadav444&show_icons=true&locale=en&layout=compact" alt="priteshyadav444" /></p>
+<a href="https://priteshyadav.in/">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=priteshyadav444&count_private=true&show_icons=true&theme=dark" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priteshyadav444&show_icons=true&locale=en" alt="priteshyadav444" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priteshyadav444&" alt="priteshyadav444" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=priteshyadav444&theme=dark)](https://git.io/streak-stats)
 
 
 
