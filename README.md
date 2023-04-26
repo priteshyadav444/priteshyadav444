@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritesh Yadav</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=priteshyadav444&label=Profile%20views&color=0e75b6&style=flat" alt="priteshyadav444" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=priteshyadav444&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://priteshyadav444.in)
+[![GitHub Streak](https://streak-stats.demolab.com?user=priteshyadav444&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://priteshyadav.in)
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
