@@ -9,3 +9,4 @@
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/660d9703da1671f9861155b5?variant=dark)](https://roadmap.sh)
